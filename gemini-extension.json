@@ -1,7 +1,7 @@
 {
-  "name": "foresight",
+  "name": "geepers-gemini",
   "version": "1.0.0",
-  "description": "Foresight: An idealized suite of expert skills for surgical editing, research, and system orchestration.",
+  "description": "Geepers Gemini: An idealized suite of expert skills for surgical editing, research, and system orchestration.",
   "skills": [
     "skills/scalpel/SKILL.md",
     "skills/critic/SKILL.md",

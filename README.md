@@ -1,6 +1,6 @@
-# Foresight
+# Geepers Gemini
 
-`foresight` is a native Gemini CLI extension and multi-agent orchestration suite. It transforms the Gemini CLI into a team of specialized expert "personas" capable of handling everything from high-precision code surgery to deep architectural research.
+`geepers-gemini` is a native Gemini CLI extension and multi-agent orchestration suite. It transforms the Gemini CLI into a team of specialized expert "personas" capable of handling everything from high-precision code surgery to deep architectural research.
 
 ## Features
 
@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-gemini extensions install lukeslp/foresight
+gemini extensions install lukeslp/geepers-gemini
 ```
 
 ## Available Skills
