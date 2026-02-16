@@ -1,0 +1,17 @@
+{
+  "name": "foresight",
+  "version": "1.0.0",
+  "description": "Foresight: An idealized suite of expert skills for surgical editing, research, and system orchestration.",
+  "skills": [
+    "skills/scalpel/SKILL.md",
+    "skills/critic/SKILL.md",
+    "skills/scout/SKILL.md",
+    "skills/security/SKILL.md",
+    "skills/test/SKILL.md",
+    "skills/team/SKILL.md",
+    "skills/planner/SKILL.md",
+    "skills/diag/SKILL.md",
+    "skills/builder/SKILL.md",
+    "skills/humanizer/SKILL.md"
+  ]
+}
