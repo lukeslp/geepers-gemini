@@ -1,43 +1,38 @@
 # Geepers Gemini
 
-`geepers-gemini` is a native Gemini CLI extension and multi-agent orchestration suite. It transforms the Gemini CLI into a team of specialized expert "personas" capable of handling everything from high-precision code surgery to deep architectural research.
+`geepers-gemini` is a native Gemini CLI extension designed for high-stakes engineering. It transforms your CLI into a coordinated team of specialists, each governed by expert-level instruction sets.
 
-## Features
+## Why Geepers?
 
-- **Expert Skills**: Specialized instruction sets (`SKILL.md`) for different domains.
-- **Strategic Tiering**: Optimized for early 2026 state-of-the-art models (Opus 4.6, GPT-5, Sonnet 4.5).
-- **Task-Specific Workflows**: Dedicated workflows for planning, building, debugging, and auditing.
+In complex codebases, general-purpose prompts often miss the nuances of architecture and safety. Geepers provides:
 
-## Installation
+- **Surgical Precision**: Tools like `geepers-scalpel` ensure that edits to massive files are localized and non-destructive.
+- **Model Intelligence**: Automated tiering that leverages the latest 2026 flagship models (Opus 4.6, GPT-5) for strategy, while using efficient models for routine tasks.
+- **Parallel Workflows**: Built-in mandates to execute independent discovery and editing tasks concurrently.
 
-```bash
-gemini extensions install lukeslp/geepers-gemini
-```
+## The Specialist Team
 
-## Available Skills
-
-| Skill | Activation Command | Purpose |
+| Expert | Activation | Focus |
 |---|---|---|
-| **Scalpel** | `activate geepers-scalpel` | Surgical, high-precision code edits. |
-| **Critic** | `activate geepers-critic` | Objective code review and optimization. |
-| **Scout** | `activate geepers-scout` | Deep research and system mapping. |
-| **Planner** | `activate geepers-planner` | Task prioritization and session strategy. |
-| **Builder** | `activate geepers-builder` | Feature implementation and scaffolding. |
-| **Diag** | `activate geepers-diag` | Debugging and root cause analysis. |
-| **Security** | `activate geepers-security` | Vulnerability auditing and data protection. |
-| **Test** | `activate geepers-test` | Comprehensive test suite generation. |
-| **Team** | `activate geepers-team` | Lead orchestration and cross-agent coordination. |
+| **The Surgeon** | `activate geepers-scalpel` | High-precision edits to complex files. |
+| **The Architect**| `activate geepers-critic` | Deep architectural review and tech-debt identification. |
+| **The Scout**    | `activate geepers-scout` | Rapid system mapping and external API research. |
+| **The Auditor**  | `activate geepers-security` | Vulnerability scanning and secret detection. |
+| **The QA Lead**  | `activate geepers-test` | Automated test suite generation and verification. |
+| **The Editor**  | `activate geepers-humanizer` | Refining AI output for professional human clarity. |
 
-## Usage
+## Quick Start
 
-Once the extension is installed, you can activate any skill to put the agent into a specialized mode:
+1. **Link the extension**:
+   ```bash
+   cd packages/geepers-gemini && gemini extensions link .
+   ```
+2. **Engage a specialist**:
+   ```bash
+   activate geepers-scout
+   "Map out the dependencies in the DashCam prediction worker."
+   ```
 
-```bash
-# Example: Using the Scalpel for a complex edit
-activate geepers-scalpel
-"Modify the payment logic in large_file.py to support the new API."
-```
+## Development
 
-## Contributing
-
-See `GEMINI.md` for development conventions and `QUICK_REFERENCE.md` for a task-to-agent mapping.
+Geepers follows a strict **"Safety First, Fact-Based"** philosophy. All contributions must adhere to the conventions defined in `GEMINI.md`.
