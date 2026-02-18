@@ -12,6 +12,7 @@ In complex codebases, general-purpose prompts often miss the nuances of architec
 
 ## The Specialist Team
 
+### Engineering Specialists
 | Expert | Activation | Focus |
 |---|---|---|
 | **The Surgeon** | `activate geepers-scalpel` | High-precision edits to complex files. |
@@ -19,7 +20,19 @@ In complex codebases, general-purpose prompts often miss the nuances of architec
 | **The Scout**    | `activate geepers-scout` | Rapid system mapping and external API research. |
 | **The Auditor**  | `activate geepers-security` | Vulnerability scanning and secret detection. |
 | **The QA Lead**  | `activate geepers-test` | Automated test suite generation and verification. |
-| **The Editor**  | `activate geepers-humanizer` | Refining AI output for professional human clarity. |
+| **The Editor**  | `activate geepers-humanizer` | Refining output for professional human clarity. |
+| **The Planner** | `activate geepers-planner` | Task prioritization and implementation sequencing. |
+| **The Builder** | `activate geepers-builder` | Feature implementation and scaffolding. |
+| **The Team Lead**| `activate geepers-team` | Multi-agent coordination and routing. |
+| **The Debugger** | `activate geepers-diag` | Root cause analysis and debugging. |
+
+### Domain Tools
+| Expert | Activation | Focus |
+|---|---|---|
+| **The Visualist** | `activate geepers-datavis` | D3.js/Chart.js visualization design and implementation. |
+| **The Researcher** | `activate geepers-data-fetch` | Structured data from 15+ authoritative APIs. |
+| **The Swarm**    | `activate geepers-swarm` | Parallel multi-domain research and synthesis. |
+| **The Janitor**  | `activate geepers-git-hygiene` | Repo cleanup, artifact removal, commit hygiene. |
 
 ## Quick Start
 

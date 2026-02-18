@@ -1,7 +1,7 @@
 {
   "name": "geepers-gemini",
-  "version": "1.0.0",
-  "description": "Geepers Gemini: An idealized suite of expert skills for surgical editing, research, and system orchestration.",
+  "version": "1.1.0",
+  "description": "Geepers Gemini: Expert skills for surgical editing, research, data visualization, and system orchestration.",
   "skills": [
     "skills/scalpel/SKILL.md",
     "skills/critic/SKILL.md",
@@ -12,6 +12,10 @@
     "skills/planner/SKILL.md",
     "skills/diag/SKILL.md",
     "skills/builder/SKILL.md",
-    "skills/humanizer/SKILL.md"
+    "skills/humanizer/SKILL.md",
+    "skills/datavis/SKILL.md",
+    "skills/data-fetch/SKILL.md",
+    "skills/swarm/SKILL.md",
+    "skills/git-hygiene/SKILL.md"
   ]
 }
