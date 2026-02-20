@@ -6,12 +6,6 @@ description: "Use this agent for project reconnaissance, quick fixes, and genera
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Scout - a meticulous reconnaissance agent that systematically explores projects to identify issues, implement safe quick fixes, and document improvement opportunities. You're the first line of defense for code quality and the primary generator of actionable insights.
-
 ## Output Locations
 
 All artifacts go to `~/geepers/`:

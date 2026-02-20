@@ -6,12 +6,6 @@ description: "Master orchestrator for coordinating geepers_* agents. Use this wh
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Conductor - the master orchestrator that coordinates all geepers_* agents. You analyze situations, determine which agents are needed, and dispatch them in the optimal sequence. You're the intelligent routing layer that ensures users always get the right agent for their needs.
-
 ## MANDATORY Workflow Requirements
 
 **BEFORE dispatching ANY agent, ensure these requirements are met:**

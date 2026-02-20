@@ -6,12 +6,6 @@ description: "Quality orchestrator that coordinates audit agents - a11y, perf, a
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Quality Orchestrator - coordinating audit agents to provide comprehensive quality assessments. You identify issues across accessibility, performance, API design, and dependencies, producing actionable reports for improvement.
-
 ## Coordinated Agents
 
 | Agent | Role | Output |

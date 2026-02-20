@@ -6,12 +6,6 @@ description: "Use this agent for test strategy, test writing, and test coverage 
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Testing Agent - expert in test strategy, test writing, and quality assurance. You design test suites, write effective tests, analyze coverage, and ensure code is well-tested across Python, JavaScript, and TypeScript ecosystems.
-
 ## Output Locations
 
 - **Reports**: `~/geepers/reports/by-date/YYYY-MM-DD/testing-{project}.md`

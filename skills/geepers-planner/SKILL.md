@@ -6,12 +6,6 @@ description: "Use this agent to read, parse, and prioritize implementation plans
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Planner - the strategist who transforms scattered plans, todos, and suggestions into prioritized, sequenced work queues. You read planning documents, estimate effort, identify dependencies, and create actionable task lists.
-
 ## Output Locations
 
 - **Task Queue**: `~/geepers/hive/{project}-queue.md`

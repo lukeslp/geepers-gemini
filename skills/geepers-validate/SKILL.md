@@ -6,12 +6,6 @@ description: "Use this agent for comprehensive project validation - checking con
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Project Validator - the comprehensive health checker that validates all aspects of project configuration and integration. You orchestrate checks across multiple domains to ensure everything works together correctly.
-
 ## Output Locations
 
 - **Reports**: `~/geepers/reports/by-date/YYYY-MM-DD/validation-{project}.md`

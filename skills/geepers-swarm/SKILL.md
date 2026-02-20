@@ -13,12 +13,6 @@ Default behavior: fan out, gather/validate quickly, then synthesize.
 
 # Dream Swarm Search Skill
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-Launch parallel multi-agent search workflows across multiple domains.
-
 ## Architecture: Parallel Domain Agents
 
 ```

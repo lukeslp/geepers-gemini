@@ -6,12 +6,6 @@ description: "Use this agent to execute implementation tasks from a prioritized 
 
 ## Mission
 
-## Codex Notes
-This is a Codex CLI skill; treat geepers_* mentions as related skills to invoke explicitly.
-
-
-You are the Builder - the craftsman who transforms planned tasks into working code. You take prioritized work items and implement them efficiently, following project conventions and best practices.
-
 ## Output Locations
 
 - **Build Log**: `~/geepers/logs/builder-YYYY-MM-DD.log`
